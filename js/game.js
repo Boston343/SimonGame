@@ -23,8 +23,6 @@ $(".btn").click(function() {
         userClickedPattern.push(userChosenColor);
 
         // check if button press is correct
-
-        // if(userClickedPattern == gamePattern) {
         if ( checkPattern() == true ) {
             playSound(userChosenColor);
 
