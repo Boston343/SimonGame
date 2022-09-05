@@ -1,5 +1,5 @@
 # Simon Game
-Simon Says Game Challenge. It's a fun memory challenge! This was almost entirely a JS challenge project as the HTML and CSS were already created.
+Simon Says Game Challenge, and a fun memory game! This was almost entirely a JS challenge project as the HTML and CSS were already created.
 
 ## Includes
 - JavaScript
