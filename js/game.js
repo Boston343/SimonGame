@@ -91,27 +91,27 @@ function nextSequence() {
 function playSound(color) {
     switch(color) {
         case "red":
-            var audio_red = new Audio("sounds/red.mp3");
+            var audio_red = new Audio("SimonGame/sounds/red.mp3");
             audio_red.play();
             break;
 
         case "blue":
-            var audio_blue = new Audio("sounds/blue.mp3");
+            var audio_blue = new Audio("SimonGame/sounds/blue.mp3");
             audio_blue.play();
             break;
 
         case "green":
-            var audio_green = new Audio("sounds/green.mp3");
+            var audio_green = new Audio("SimonGame/sounds/green.mp3");
             audio_green.play();
             break;
 
         case "yellow":
-            var audio_yellow = new Audio("sounds/yellow.mp3");
+            var audio_yellow = new Audio("SimonGame/sounds/yellow.mp3");
             audio_yellow.play();
             break;
 
         case "wrong":
-            var audio_wrong = new Audio("sounds/wrong.mp3");
+            var audio_wrong = new Audio("SimonGame/sounds/wrong.mp3");
             audio_wrong.play();
             break;
 
